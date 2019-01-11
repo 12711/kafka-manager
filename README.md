@@ -1,4 +1,4 @@
-Kafka Manager
+Kafka Manager(kafka管理工具)
 =============
 
 A tool for managing [Apache Kafka](http://kafka.apache.org).
